@@ -20,7 +20,7 @@
         <commonutils-version>0.1-SNAPSHOT</commonutils-version>
         <validation-api-version>1.1.0.Final</validation-api-version>
         <dripconf-client-version>1.0.2-SNAPSHOT</dripconf-client-version>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-validator.version>1.6</commons-validator.version>
