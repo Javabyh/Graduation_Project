@@ -36,7 +36,7 @@
         <commons.beanutils.version>1.9.2</commons.beanutils.version>
         <cglib.version>3.2.2</cglib.version>
         <commons-configuration.version>1.6</commons-configuration.version>
-        <xstream.version>1.4.8</xstream.version>
+        <xstream.version>1.4.16</xstream.version>
         <super.diamond.version>1.1.0</super.diamond.version>
         <netty.version>4.1.9.Final</netty.version>
         <jackson-asl.version>1.9.13</jackson-asl.version>
