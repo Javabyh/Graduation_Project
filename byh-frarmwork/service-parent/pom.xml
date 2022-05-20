@@ -31,7 +31,7 @@
         <guava.version>20.0</guava.version>
         <apache.rocketmq.version>4.0.0-incubating</apache.rocketmq.version>
         <aspectj.version>1.7.3</aspectj.version>
-        <gson.version>2.2.4</gson.version>
+        <gson.version>2.8.9</gson.version>
         <amino.version>0.1</amino.version>
         <commons.beanutils.version>1.9.2</commons.beanutils.version>
         <cglib.version>3.2.2</cglib.version>
