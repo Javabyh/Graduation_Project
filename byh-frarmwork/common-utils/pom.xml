@@ -199,7 +199,7 @@
         <dependency>
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
-            <version>RELEASE</version>
+            <version>3.9.0</version>
         </dependency>
 
         <dependency>
