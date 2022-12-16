@@ -12,7 +12,7 @@
         <spring-boot-version>1.5.9.RELEASE</spring-boot-version>
         <dubbo-version>2.5.3</dubbo-version>
         <zkclient-version>0.10</zkclient-version>
-        <spring-version>4.3.10.RELEASE</spring-version>
+        <spring-version>5.2.20.RELEASE</spring-version>
         <druid-version>1.1.2</druid-version>
         <slf4j-version>1.7.25</slf4j-version>
         <logback-version>1.0.13</logback-version>
